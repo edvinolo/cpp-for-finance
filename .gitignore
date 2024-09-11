@@ -1,0 +1,16 @@
+#Ignore all object files
+*.o
+
+#Ignore all executables
+*.exe
+
+#Ignore all pdfs
+*.pdf
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
+#Igonore .vscode directory
+**/.vscode/
